@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/flight_book/static/css/main.073c9b0a.css",
-    "main.js": "/flight_book/static/js/main.3d92e240.js",
-    "static/js/787.6e1b1c36.chunk.js": "/flight_book/static/js/787.6e1b1c36.chunk.js",
-    "static/media/logo.svg": "/flight_book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/flight_book/static/css/main.93ed5bc3.css",
+    "main.js": "/flight_book/static/js/main.dc3ca1ca.js",
     "index.html": "/flight_book/index.html",
-    "main.073c9b0a.css.map": "/flight_book/static/css/main.073c9b0a.css.map",
-    "main.3d92e240.js.map": "/flight_book/static/js/main.3d92e240.js.map",
-    "787.6e1b1c36.chunk.js.map": "/flight_book/static/js/787.6e1b1c36.chunk.js.map"
+    "main.93ed5bc3.css.map": "/flight_book/static/css/main.93ed5bc3.css.map",
+    "main.dc3ca1ca.js.map": "/flight_book/static/js/main.dc3ca1ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3d92e240.js"
+    "static/css/main.93ed5bc3.css",
+    "static/js/main.dc3ca1ca.js"
   ]
 }
